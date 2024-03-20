@@ -1,6 +1,6 @@
-- 👋 Oi, sou Allan Gomes.
-- 👀 Eu sou uma pessoa interessada e amante da tecnologia.
-- 🌱 Estou aprendendo programação com JavaScript, HTML e CSS, porém darei sequência em JAVA para desenvolvimento de Software.
-- 💞️ Estou procurando por colaboração em um novo projeto que estou desenvolvendo em Front-End, um site de organização financeira.
-- 📫 Você também me encontra no LinkedIn https://www.linkedin.com/in/allan-gomes-3a8344106/
-- ⚡ Fato sobre mim: Odeio banana!
+- 👋 Hi there, i'm Allan Gomes.
+- 👀 I'm interested in learning new things and love technology.
+- 🌱 I'm learning programmation with JavaScript, HTML and CSS, but i continue my personal project utilizing this programmation language, and study JAVA to developer software.
+- 💞️ I want a new colaboration for my first project in Front-End, a site for Finance Organization. 
+- 📫 You can find me in LinkedIn https://www.linkedin.com/in/allan-gomes-3a8344106/
+- ⚡ About me: Hate banana, with every my forces!
